@@ -81,3 +81,4 @@ Community session covered AI industry updates, tokenization fundamentals, and ag
 
 * Announced the mobile app community and the community GitHub organization for resource sharing.  
 * Discussed plans to post-train a small tool-calling model using personal coding datasets.
+* Session full Video: [On Google Drive](https://drive.google.com/file/d/1eChjZI6MmXiy3V0foml620tN-S8Hkz5X/view?usp=drive_web)
